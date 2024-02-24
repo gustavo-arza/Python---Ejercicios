@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
-#Decoración: Nombre del Algoritmo
+#extraido del libro Algoritmos resueltos con Python | p56-57
+#Nombre: 2.Promedio de 3 notas.py
 print("-------------------------------------------------------")
 print("Ejercicio2: PROMEDIO DE 3 NOTAS.")
 print("-------------------------------------------------------")

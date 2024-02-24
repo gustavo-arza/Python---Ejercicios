@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
-#Decoración: Nombre del Algoritmo
+#extraido del libro Algoritmos resueltos con Python | p59-60
+#Nombre: 3.Puntaje Final.py
 print("-------------------------------------------------------")
 print("Ejercicio3: PUNTAJE FINAL.")
 print("-------------------------------------------------------")

@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
-#Decoración: Nombre del Algoritmo
+#extraido del libro Algoritmos resueltos con Python | p54
+#Nombre: 1.Calcular Distancia.py
 print("-------------------------------------------------------")
 print("Ejercicio1: CALCULAR DISTANCIA.")
 print("-------------------------------------------------------")
