@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 #extraido del libro Algoritmos resueltos con Python | p140
 #nombre: c22.C6.Calculo el Primero Decide.py
-# -*- coding: utf-8 -*-
-#Decoración: Nombre del Algoritmo
 print("-------------------------------------------------------")
 print("Complemento6: NÚMEROS, EL PRIMERO DECIDE.")
 print("-------------------------------------------------------")
