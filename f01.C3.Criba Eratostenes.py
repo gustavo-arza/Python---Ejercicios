@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 #extraido del libro Algoritmos resueltos con Python | p231-332
-
 #nombre: f01.C3.Criba Eratostenes.py
 print("-------------------------------------------------------")
 print("Complemento3: CRIBA DE ERATÓSTENES.")
