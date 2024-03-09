@@ -2,12 +2,13 @@
 #extraido del libro Algoritmos resueltos con Python | p235-337
 #nombre: f01.C4.Vector y Opciones.py
 print("-------------------------------------------------------")
-print("Complemento4: INTERACTUAR CON UN VECTOR A TRAVEZ DE OPC
-IONES.")
+print("Complemento4: INTERACTUAR CON UN VECTOR A TRAVEZ DE OPCIONES.")
 print("-------------------------------------------------------")
+
 #Inicializar
 V = 100*[0] #Inicializamos un vector con 100 elementos por defecto
 i = 0
+
 #Entradas
 print ("Ingrese tamaño del vector")
 n = int( input())
