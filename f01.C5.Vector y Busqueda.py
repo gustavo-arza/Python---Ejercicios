@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-#extraido del libro Algoritmos resueltos con Python | p235-337
+#extraido del libro Algoritmos resueltos con Python | p340
 #nombre: f01.C5.Vector y Busqueda.py
 print("-------------------------------------------------------")
 print("Complemento5: BUSCAR ELEMENTO DENTRO DEL ARRAY.")
