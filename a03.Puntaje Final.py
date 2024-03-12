@@ -5,11 +5,11 @@ print("-------------------------------------------------------")
 print("Ejercicio3: PUNTAJE FINAL.")
 print("-------------------------------------------------------")
 #Entradas
-print("Ingrese número de respuestas correctas: ")
-RC = int( input())
-print("Ingrese número de respuestas incorrectas: ")
+print("Ingrese numero de respuestas correctas: ")
+RC = int( input())4
+print("Ingrese numero de respuestas incorrectas: ")
 RI = int( input())
-print("Ingrese número de respuestas en blanco: ")
+print("Ingrese numero de respuestas en blanco: ")
 RB = int( input())
 #Proceso
 PCR = RC*3
