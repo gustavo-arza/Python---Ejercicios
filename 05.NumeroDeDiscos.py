@@ -1,21 +1,23 @@
 # -*- coding: utf-8 -*-
-import math #librería necesaria para usar funciones Matemáticas
+import math #librerï¿½a necesaria para usar funciones Matemï¿½ticas
 #en este caso math.ceil(), que redondea un numero al Entero superior
 #extraido del libro Algoritmos resueltos con Python | p64
 #nombre: 5.NumeroDeDiscos.py
-print("-------------------------------------------------------")
-print("Ejercicio5: NÚMERO DE MICRO DISCOS 3.5 NECESARIOS")
-print("-------------------------------------------------------")
+print("------------------------------------------------------------")
+print("Ejercicio 5: NUMERO DE DISCOS FLEXIBLES de 1.44Mb NECESARIOS")
+print("------------------------------------------------------------")
+
 #Entradas
 print("Ingrese GB: ")
 GB = float( input())
+
 #Proceso
 MG = GB*1024
 MD = MG/1.44
+
 #Salida
 print("\nSALIDA: ")
 print("-------------------------------------------------------")
-print(MD)
 #En caso de Decimal Aproximar al siguiente entero
 #Ya que la parte decimal debe ser almacenada en otro DISCO 3.5
-print("Numero de Discos necesarios: ", math.ceil(MD))
+print("Numero de Discos Flexibles necesarios: ", math.ceil(MD))
