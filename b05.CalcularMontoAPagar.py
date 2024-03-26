@@ -4,14 +4,17 @@
 print("-------------------------------------------------------")
 print("Complemento5: CALCULAR MONTO A PAGAR.")
 print("-------------------------------------------------------")
+
 #Entradas
-print("Ingrese costo unitario del artículo:")
+print("Ingrese costo unitario del articulo:")
 c = float( input())
-print("Ingrese el número de docenas:")
+print("Ingrese el numero de docenas:")
 d = int( input())
+
 #Proceso
 p = d*12 * c
+
 #Salida
 print("\nSALIDA: ")
 print("-------------------------------------------------------")
-print("El precio del artículo es:", p)
+print("El precio total de articulo es:", p, "por", d,"docenas")
