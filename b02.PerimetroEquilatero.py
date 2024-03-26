@@ -2,14 +2,17 @@
 #extraido del libro Algoritmos resueltos con Python | p83
 #nombre: b02.PerimetroEquilatero.py
 print("-------------------------------------------------------")
-print("Complemento2: PERÍMETRO TRIANGULO EQUILÁTERO.")
+print("Complemento2: PERIMETRO TRIANGULO EQUILATERO.")
 print("-------------------------------------------------------")
+
 #Entradas
-print("Ingrese altura del triángulo: ")
+print("Ingrese altura del triangulo: ")
 h = float( input())
+
 #Proceso
 p = 3*(2*h)/3**0.5
+
 #Salida
 print("\nSALIDA: ")
 print("-------------------------------------------------------")
-print("El perímetro del triángulo será:", p)
+print("El perimetro del triangulo es:", p)
