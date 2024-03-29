@@ -2,16 +2,19 @@
 #extraido del libro Algoritmos resueltos con Python | p91
 #nombre: b06.MillasAKM.py
 print("-------------------------------------------------------")
-print("Complemento6: Millas a Kilómetros.")
+print("Complemento6: Millas a Kilometros.")
 print("-------------------------------------------------------")
 #Constantes
 MI = 1.609344
+
 #Entradas
-print("Ingrese número de millas:")
+print("Ingrese numero de millas:")
 m = float( input())
+
 #Proceso
 k = m*MI
+
 #Salida
 print("\nSALIDA: ")
 print("-------------------------------------------------------")
-print(m, "millas tiene", k, "kilómetros")
+print(m, "millas tiene", k, "kilometros")
